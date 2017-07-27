@@ -2,9 +2,6 @@
 12
 13
 
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/coderXuGe/spring-cloud-config.git
-888888888888
-end8
+1
+end1
